@@ -29,7 +29,7 @@
  ![imagem ilustrativa.](https://pin.it/2R0UEf9da)
 
 
-|   PONTOS FORTES       
+|   PONTOS FORTES       |
 
 |      CURIOSIDADE    |  
 
