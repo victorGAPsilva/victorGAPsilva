@@ -1,56 +1,39 @@
-# ola meu nome é Vivtor Gabriel, Sou novo na area de desnvolvimento.
+# Olá, meu nome é Victor Gabriel! 👋
 
-## sempre a procura da evolução pra um dia poder ser um grande desnvolvedor . 
+Sou novo na área de desenvolvimento e estou sempre em busca de evolução para, um dia, me tornar um grande desenvolvedor.
 
+## 📚 Formação
+Sou aluno de informática, cursando o **técnico em informática** na instituição **SENAC**.
 
+## 🎯 Objetivos
+- Aprender diversos tipos de linguagem de programação.
+- Construir uma carreira como desenvolvedor.
+- Me consolidar como um grande profissional na área.
 
+## 💼 Portfólio
+(Adicione aqui os links ou informações sobre seus projetos)
 
+## 📝 Sobre mim
+Meu nome é Victor Gabriel, tenho 17 anos e, desde pequeno, sempre fui um entusiasta no ramo da tecnologia, procurando aprender mais sobre computadores.
 
-### auluno de informatica "cursando tecnico de informatica" na instituiçao (SENAC).
+Aos 11 anos, fiz a manutenção do meu primeiro computador e tive certeza de que a informática era a área que eu queria seguir! 💻
 
+![Imagem ilustrativa.](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD...)
 
-## OJETIVOS
+## 💪 Pontos fortes
+| Curiosidade | Entusiasmo |
 
-* Aprender diversos tipos de linguagem de programação. 
-* construir uma carrareira como dev.
-* me consolidar como um grande profissional na area.
+---
 
+# 🚀 Meus Projetos
+Tenho projetos na área de **rede e hardware**, construindo **redes estruturadas** com excelência e uma grande taxa de aprovação.
 
+## 🎨 Design dos Projetos
 
-## PORTFOLIO
+### 🔗 Links
+- [🏗️ **Rede Estruturada**](https://www.canva.com/design/DAGjfLvfe4k/4N86pnBOrpwQGfrfT8CwXg/edit?utm_content=DAGjfLvfe4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [💻 **I.T.E Infinity Technology**](https://www.canva.com/design/DAGT6yrtMwY/IUoBjWNq-9BQDlOF7XdY8Q/edit/)
+- [🔐 **Segurança da Informação de Dados**](https://www.canva.com/design/DAGiRFBR3h0/eWm75QDKa15pRZvr9m0HVA/edit/)
 
-
-
-
-## SOBRE MIM
-
-### Meu nome e Victor Gabriel tenho 17 anos e desde pequeno sempre fui entusiasta no ramo de tecnologia sempre procurando muitas inforamação sobre computadores.
- ### quanto tinha 11 anos eu fiz a manutençao do meu primeiro computador e tive certeza que a informatica era a area que queria seguir
- ![imagem ilustrativa.](data:image/jpeg;base64,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)
-
-
-|   PONTOS FORTES       |
-
-|      CURIOSIDADE    |  
-
-|     ENTUSIASMO        | 
-
-
-
-
-# MEUS PROJETOS 
-
-### tenhos projetos dentro da areas de rede e hardware contruindo redes estruturadas, com exelencia e grande taxa de aprovaçao 
-
-### DESINGS DOS PROJETOS
-
-## LINKS 
- CONSULTE [AMTIONOVA REDE ESTRUTURADA](https://www.canva.com/design/DAGjfLvfe4k/4N86pnBOrpwQGfrfT8CwXg/edit?utm_content=DAGjfLvfe4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/)
-
- CONSULTE [I.T.E INFINITY TECHNOLOGY](https://www.canva.com/design/DAGT6yrtMwY/IUoBjWNq-9BQDlOF7XdY8Q/edit/)
-
-CONSULTE [SEGURANÇA DA INFORMAÇAO DE DADOS](https://www.canva.com/design/DAGiRFBR3h0/eWm75QDKa15pRZvr9m0HVA/edit/)
-
-
-
-![INSTAGRAM](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/70px-Instagram_logo_2016.svg.png)[instagram]
+## 🌎 Redes Sociais
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/70px-Instagram_logo_2016.svg.png)](instagram)
