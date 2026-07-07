@@ -1,1166 +1,1068 @@
-# Victor Gabriel
+<!-- ============================================ -->
+<!--               HEADER                         -->
+<!-- ============================================ -->
 
-> Backend Developer • Machine Learning • Software Engineer
+<p align="center">
 
-```{=html}
-<!-- Replace YOUR_USERNAME with victorGAPsilva where needed -->
-```
-## Section 1
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24,0&text=Victor%20Gabriel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Machine%20Learning%20Engineer&descAlignY=58"/>
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+</p>
 
-``` html
-<!-- Example widget 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
+---
 
--   Item 1.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 1.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+<p align="center">
 
-## Section 2
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Backend+Developer;Machine+Learning+Engineer;Software+Engineer;PHP+Developer;Python+Developer;Always+Learning+New+Technologies;Building+Scalable+Applications"/>
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+</p>
 
-``` html
-<!-- Example widget 2 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
+---
 
--   Item 2.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 2.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+<p align="center">
 
-## Section 3
+<a href="https://github.com/victorGAPsilva">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+<a href="https://instagram.com/victor_a.p.silva">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-``` html
-<!-- Example widget 3 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
--   Item 3.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 3.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+</p>
 
-## Section 4
+---
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+<p align="center">
 
-``` html
-<!-- Example widget 4 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=victorGAPsilva&label=Visitors&color=FFD700&style=flat"/>
+
+</p>
+
+---
+
+# 👨🏻‍💻 About Me
+
+```php
+<?php
+
+class VictorGabriel
+{
+    public string $role = "Backend Developer";
+
+    public string $focus = "Machine Learning";
+
+    public string $education = "Computer Technician - SENAC";
+
+    public array $languages = [
+        "PHP",
+        "Python",
+        "JavaScript"
+    ];
+
+    public array $frameworks = [
+        "Node.js"
+    ];
+
+    public array $database = [
+        "MySQL"
+    ];
+
+    public array $interests = [
+
+        "Machine Learning",
+
+        "Artificial Intelligence",
+
+        "Software Architecture",
+
+        "Cloud Computing",
+
+        "Backend Development"
+
+    ];
+
+    public function mission(): string
+    {
+        return "Develop intelligent software that solves real problems.";
+    }
+}
+
+?>
 ```
 
--   Item 4.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 4.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+---
 
-## Section 5
+# 🚀 About Me
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+Hello!
 
-``` html
-<!-- Example widget 5 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
+I'm **Victor Gabriel**, a Backend Developer passionate about building modern applications and intelligent systems.
+
+My main areas of expertise are **Backend Development** and **Machine Learning**.
+
+I graduated as a **Computer Technician from SENAC** and continuously improve my knowledge in Software Engineering, Artificial Intelligence, Data Science, and Cloud Computing.
+
+I enjoy solving complex problems, writing clean code, and designing scalable systems.
+
+Currently I'm focused on:
+
+- Backend Development
+- Machine Learning
+- Artificial Intelligence
+- Software Architecture
+- Python
+- PHP
+- Cloud Computing
+- Docker
+- Design Patterns
+- Clean Architecture
+
+---
+
+# ⚡ Quick Facts
+
+🏆 Computer Technician
+
+💻 Backend Developer
+
+🤖 Machine Learning Enthusiast
+
+📚 Lifelong Learner
+
+🎯 Software Engineer
+
+🚀 Open Source Lover
+
+☕ Coffee Powered
+
+🌎 Brazil
+
+---
+<!-- ============================================ -->
+<!--               TECH STACK                      -->
+<!-- ============================================ -->
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,python,nodejs,js,mysql,html,css,docker,git,github,linux,vscode&perline=6"/>
+
+</p>
+
+---
+
+# 💻 Backend Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-6A1B9A?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🤖 Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+</p>
+
+> *Currently expanding my knowledge in Machine Learning, Deep Learning and Artificial Intelligence.*
+
+---
+
+# 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Experience
+
+- Database Modeling
+- SQL Queries
+- Normalization
+- Relationships
+- Indexes
+- Performance Optimization
+
+---
+
+# 🌐 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+I primarily work on the backend, but I have experience building responsive interfaces with HTML, CSS and JavaScript.
+
+---
+
+# ☁ DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github"/>
+
+</p>
+
+### Currently Studying
+
+- Docker
+- Cloud Computing
+- CI/CD
+- Linux Servers
+- GitHub Actions
+
+---
+
+# 🧰 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker"/>
+
+</p>
+
+---
+
+# 📈 Knowledge Level
+
+| Technology | Level |
+|------------|-------|
+| PHP | ██████████ 90% |
+| Python | ████████░░ 80% |
+| JavaScript | ████████░░ 80% |
+| MySQL | █████████░ 85% |
+| HTML/CSS | ████████░░ 80% |
+| Docker | ██████░░░░ 60% |
+| Machine Learning | ███████░░░ 70% |
+| Software Architecture | ███████░░░ 75% |
+
+---
+
+# 🎯 Core Specializations
+
+- ⚙ Backend Development
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🏛 Software Architecture
+- 🐘 PHP
+- 🐍 Python
+- 🛢 MySQL
+- ☁ Cloud Computing
+- 🐳 Docker
+- 📦 APIs
+- 🔗 RESTful Services
+- 🧩 Design Patterns
+- 🏗 Clean Architecture
+
+---
+
+# 📚 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- MLOps
+- Docker
+- Kubernetes
+- AWS
+- Microservices
+- Event-Driven Architecture
+- Advanced Python
+- Data Structures & Algorithms
+
+---
+<!-- ============================================ -->
+<!--              GITHUB DASHBOARD                -->
+<!-- ============================================ -->
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorGAPsilva&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=victorGAPsilva&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=victorGAPsilva&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📋 Profile Summary
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorGAPsilva&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorGAPsilva&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorGAPsilva&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorGAPsilva&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorGAPsilva&theme=tokyonight&utcOffset=-3"/>
+
+</p>
+
+---
+
+# 🚀 Development Philosophy
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
 ```
 
--   Item 5.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 5.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+---
 
-## Section 6
+# 📌 Current Goals
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+✅ Build production-ready Backend systems
 
-``` html
-<!-- Example widget 6 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
+✅ Publish Machine Learning projects
+
+✅ Improve Software Architecture knowledge
+
+✅ Learn MLOps
+
+✅ Master Docker
+
+✅ Learn Kubernetes
+
+✅ Study AWS
+
+✅ Contribute to Open Source
+
+---
+
+# 🧠 What I'm Working On
+
+🚀 Fechou SaaS
+
+⚙ Backend APIs
+
+🤖 Machine Learning Studies
+
+📚 Artificial Intelligence
+
+🐍 Python
+
+🐘 PHP
+
+☁ Cloud Computing
+
+---
+
+# 📈 Focus Areas
+
+Backend Development
+
+██████████████████████ 100%
+
+Machine Learning
+
+██████████████████░░░░ 90%
+
+Software Architecture
+
+█████████████████░░░░░ 85%
+
+Cloud Computing
+
+██████████████░░░░░░░░ 70%
+
+Artificial Intelligence
+
+████████████████░░░░░░ 80%
+
+Docker
+
+█████████████░░░░░░░░░ 65%
+
+Linux
+
+█████████████████░░░░░ 85%
+
+Git
+
+██████████████████░░░░ 90%
+
+---
+
+# 📖 Favorite Topics
+
+- Backend Engineering
+- Machine Learning
+- Artificial Intelligence
+- Design Patterns
+- Clean Architecture
+- Software Engineering
+- Distributed Systems
+- APIs
+- Linux
+- Docker
+- Cloud Computing
+- Data Science
+- Algorithms
+- Problem Solving
+
+---
+<!-- ============================================ -->
+<!--       BACKEND & MACHINE LEARNING             -->
+<!-- ============================================ -->
+
+# 🚀 My Specializations
+
+<div align="center">
+
+| ⚙ Backend Engineering | 🤖 Machine Learning |
+|:----------------------:|:------------------:|
+| REST APIs | Supervised Learning |
+| Software Architecture | Deep Learning |
+| Clean Architecture | Computer Vision |
+| Design Patterns | Natural Language Processing |
+| Microservices | Neural Networks |
+| Authentication | Data Analysis |
+| Performance | Predictive Models |
+
+</div>
+
+---
+
+# ⚙ Backend Development
+
+Backend development is where I feel most comfortable.
+
+I enjoy designing scalable systems, creating clean architectures, and developing reliable APIs that can handle real-world applications.
+
+### My Main Technologies
+
+- PHP
+- Python
+- JavaScript
+- Node.js
+- MySQL
+- REST APIs
+- Git
+- Docker
+
+---
+
+## Backend Principles
+
+✔ Clean Code
+
+✔ SOLID
+
+✔ Design Patterns
+
+✔ Clean Architecture
+
+✔ Object-Oriented Programming
+
+✔ RESTful APIs
+
+✔ Security First
+
+✔ Scalability
+
+✔ Maintainability
+
+✔ Performance Optimization
+
+---
+
+# 🤖 Machine Learning
+
+Artificial Intelligence has become one of my biggest interests.
+
+I enjoy understanding how machines learn from data and how intelligent systems can solve complex real-world problems.
+
+My goal is to combine Backend Engineering with Artificial Intelligence to create scalable and intelligent software.
+
+---
+
+## Areas of Interest
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Data Science
+- Natural Language Processing (NLP)
+- Computer Vision
+- Reinforcement Learning
+- Predictive Analytics
+
+---
+
+## Current Learning
+
+🟢 Python
+
+🟢 NumPy
+
+🟢 Pandas
+
+🟢 Scikit-Learn
+
+🟡 TensorFlow
+
+🟡 PyTorch
+
+🟡 MLOps
+
+🟡 Data Engineering
+
+---
+
+# 📚 Learning Roadmap
+
+## Backend
+
+✅ PHP
+
+✅ JavaScript
+
+✅ SQL
+
+🟡 Laravel
+
+🟡 Docker
+
+🟡 Redis
+
+🟡 RabbitMQ
+
+🟡 Microservices
+
+🟡 Kubernetes
+
+🟡 AWS
+
+---
+
+## Machine Learning
+
+✅ Python
+
+✅ NumPy
+
+✅ Pandas
+
+🟡 Scikit-Learn
+
+🟡 TensorFlow
+
+🟡 PyTorch
+
+🟡 OpenCV
+
+🟡 NLP
+
+🟡 Deep Learning
+
+🟡 MLOps
+
+---
+
+# 💡 Engineering Mindset
+
+```text
+Problem
+      │
+      ▼
+
+Research
+
+      │
+      ▼
+
+Planning
+
+      │
+      ▼
+
+Architecture
+
+      │
+      ▼
+
+Development
+
+      │
+      ▼
+
+Testing
+
+      │
+      ▼
+
+Deployment
+
+      │
+      ▼
+
+Continuous Improvement
 ```
 
--   Item 6.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 6.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+---
 
-## Section 7
+# 🎯 Career Vision
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+I want to become a Software Engineer capable of building intelligent systems that combine modern backend technologies with Artificial Intelligence.
 
-``` html
-<!-- Example widget 7 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
+My long-term objective is to develop scalable software capable of solving meaningful problems through automation, data, and machine learning.
+
+---
+
+# 📖 Currently Reading & Studying
+
+- Software Engineering
+- Machine Learning
+- Artificial Intelligence
+- System Design
+- Data Structures
+- Algorithms
+- Software Architecture
+- Distributed Systems
+- Cloud Computing
+- Docker
+- Kubernetes
+
+---
+
+# ⚡ What Motivates Me
+
+💻 Building useful software
+
+🧠 Learning something new every day
+
+🚀 Solving challenging problems
+
+🤝 Collaborating with developers
+
+📈 Continuous improvement
+
+🌎 Creating technology that makes an impact
+
+---
+
+# 🔥 Favorite Technologies
+
+<div align="center">
+
+| Backend | AI | Infrastructure |
+|----------|----|----------------|
+| PHP | Python | Linux |
+| Node.js | Scikit-Learn | Docker |
+| MySQL | Pandas | Git |
+| REST API | NumPy | GitHub |
+
+</div>
+
+---
+
+# 📊 My Development Philosophy
+
+```text
+Think.
+
+↓
+
+Design.
+
+↓
+
+Build.
+
+↓
+
+Test.
+
+↓
+
+Deploy.
+
+↓
+
+Improve.
+
+↓
+
+Repeat.
 ```
 
--   Item 7.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 7.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+---
+<!-- ============================================ -->
+<!--              FEATURED PROJECTS               -->
+<!-- ============================================ -->
 
-## Section 8
+# 🚀 Featured Projects
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+> Here are some of the projects I've been working on.
 
-``` html
-<!-- Example widget 8 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
+---
+
+## 🚀 Fechou
+
+### SaaS for Business Management
+
+A modern SaaS platform designed to help businesses manage sales, customers, orders and daily operations.
+
+### Main Features
+
+- Authentication System
+- Dashboard
+- Customer Management
+- Product Management
+- Order Management
+- Reports
+- Responsive Interface
+- Modern UI
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,git"/>
+
+</p>
+
+---
+
+## 🍔 Mercadinho Juvenil
+
+### Complete Restaurant Ordering System
+
+A complete ordering platform focused on performance, user experience and sales conversion.
+
+### Features
+
+- Customer Login
+- Shopping Cart
+- PIX Payment
+- Kitchen Order Generation
+- Administrative Dashboard
+- Reports
+- Mobile First Design
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,js,mysql,html,css"/>
+
+</p>
+
+---
+
+## 🌐 Network Infrastructure
+
+Planning and implementation of structured networks with emphasis on organization, scalability and reliability.
+
+### Topics
+
+- Structured Cabling
+
+- Network Design
+
+- Network Planning
+
+- Troubleshooting
+
+- Hardware Maintenance
+
+---
+
+## 🤖 Machine Learning
+
+I'm currently building practical Machine Learning projects to strengthen my portfolio.
+
+Current areas of study:
+
+- Classification
+
+- Regression
+
+- Data Analysis
+
+- Computer Vision
+
+- NLP
+
+- Deep Learning
+
+---
+
+# 💼 Portfolio Highlights
+
+| Project | Category | Status |
+|---------|----------|--------|
+| 🚀 Fechou | SaaS | 🟢 Active |
+| 🍔 Mercadinho Juvenil | Web Application | 🟢 Active |
+| 🌐 Network Infrastructure | Infrastructure | ✅ Completed |
+| 🤖 Machine Learning Portfolio | Artificial Intelligence | 🚧 In Progress |
+
+---
+
+# 📂 Repositories
+
+| Repository | Description |
+|------------|-------------|
+| 🚀 Fechou | Business Management SaaS |
+| 🍔 Mercadinho Juvenil | Restaurant Management System |
+| 🤖 Machine Learning | AI experiments and studies |
+| 🌐 Networking | Infrastructure projects |
+
+---
+
+# 📈 Project Goals
+
+✔ High Performance
+
+✔ Scalability
+
+✔ Security
+
+✔ Clean Architecture
+
+✔ Great User Experience
+
+✔ Maintainable Code
+
+✔ Real-World Applications
+
+---
+
+# ⚙ Development Workflow
+
+```text
+Idea
+ │
+ ▼
+Planning
+ │
+ ▼
+Architecture
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Maintenance
 ```
 
--   Item 8.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 8.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
+---
 
-## Section 9
+# 🧩 What I Like to Build
 
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
+- Backend Systems
 
-``` html
-<!-- Example widget 9 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
+- REST APIs
+
+- SaaS Applications
+
+- AI-powered Applications
+
+- Automation Tools
+
+- Business Solutions
+
+- Data Processing Systems
+
+- Machine Learning Projects
+
+---
+
+# 🎯 What You'll Find Here
+
+✅ Backend Applications
+
+✅ Machine Learning Studies
+
+✅ Software Engineering
+
+✅ Clean Architecture
+
+✅ APIs
+
+✅ Networking Projects
+
+✅ Open Source Experiments
+
+---
+
+# 📌 Current Main Project
+
+## 🚀 Fechou
+
+My primary project is **Fechou**, a modern SaaS platform focused on helping businesses simplify their operations.
+
+Current priorities include:
+
+- Improving architecture
+- Enhancing performance
+- Building scalable features
+- Delivering an excellent user experience
+- Applying software engineering best practices
+
+---
+
+# 🔥 Future Projects
+
+- AI Assistant
+
+- Recommendation System
+
+- Image Classification
+
+- Chat Application
+
+- Inventory System
+
+- CRM Platform
+
+- Task Management SaaS
+
+- Financial Dashboard
+
+- Machine Learning API
+
+- Data Visualization Platform
+
+---
+# 📈 Career Timeline
+
+```text
+2018
+│
+├── First computer maintenance experience
+│
+2019
+│
+├── Developed a strong interest in technology and hardware
+│
+2020
+│
+├── Continued learning about computer maintenance and IT
+│
+2021
+│
+├── Started studying networking and IT infrastructure
+│
+2022
+│
+├── Deepened knowledge in hardware, networking and technology
+│
+2023
+│
+├── Continued studying IT and improving technical skills
+│
+2024
+│
+├── Began the Computer Technician program at SENAC
+│
+2025
+│
+├── Started programming
+│
+├── Focused on Backend Development
+│
+├── Began studying Machine Learning
+│
+└── Started developing personal and SaaS projects
+│
+2026
+│
+├── Graduated as a Computer Technician from SENAC
+│
+├── Expanded Backend Development expertise
+│
+├── Continued studying Machine Learning
+│
+└── Building scalable software and AI-powered applications
 ```
-
--   Item 9.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 9.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 10
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 10 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 10.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 10.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 11
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 11 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 11.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 11.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 12
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 12 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 12.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 12.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 13
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 13 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 13.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 13.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 14
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 14 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 14.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 14.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 15
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 15 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 15.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 15.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 16
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 16 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 16.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 16.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 17
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 17 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 17.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 17.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 18
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 18 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 18.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 18.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 19
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 19 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 19.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 19.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 20
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 20 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 20.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 20.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 21
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 21 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 21.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 21.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 22
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 22 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 22.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 22.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 23
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 23 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 23.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 23.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 24
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 24 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 24.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 24.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 25
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 25 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 25.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 25.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 26
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 26 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 26.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 26.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 27
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 27 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 27.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 27.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 28
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 28 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 28.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 28.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 29
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 29 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 29.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 29.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 30
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 30 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 30.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 30.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 31
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 31 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 31.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 31.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 32
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 32 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 32.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 32.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 33
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 33 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 33.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 33.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 34
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 34 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 34.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 34.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 35
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 35 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 35.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 35.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 36
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 36 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 36.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 36.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 37
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 37 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 37.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 37.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 38
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 38 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 38.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 38.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 39
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 39 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 39.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 39.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
-
-## Section 40
-
-This is a placeholder section for a premium README. Customize with your
-projects, stats, badges and visuals.
-
-``` html
-<!-- Example widget 40 -->
-<img src="https://github-readme-stats.vercel.app/api?username=victorGAPsilva&show_icons=true&theme=tokyonight" />
-```
-
--   Item 40.1: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.2: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.3: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.4: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.5: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.6: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.7: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.8: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
--   Item 40.9: Backend, Machine Learning, PHP, Python, JavaScript,
-    Docker, MySQL.
